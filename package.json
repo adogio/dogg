@@ -1,0 +1,22 @@
+{
+  "name": "dogg",
+  "version": "0.0.1",
+  "description": "a log system for node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adogio/dogg.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "WMXPY",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/adogio/dogg/issues"
+  },
+  "homepage": "https://github.com/adogio/dogg#readme"
+}
